@@ -1,0 +1,8 @@
+print("Hello welcome, my name is chtabot.Whats yours?")
+name = input() 
+print("hello nice to meet you " + name + "") 
+print( "How old are you " + name + "?")
+age = input()
+print("What a great age to be," + age + "!!")
+print("So," + name + " what can I do for you.")
+print(" Chose from the folowing options\nOption 1\n Option 2\nEnd Program")
